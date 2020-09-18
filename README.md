@@ -9,4 +9,5 @@ AI project to determine the score of a Portugese red wine depending on the chemi
     <li>Difference between men and women.<b>External Dataset - Clustering </b></li>
     <li>Notice paterns in the description and the title with corolation to a higher score.<b></b></li>
     <li>Chemical compisition relative to the province | determine the orgin by the chemical makeup</li>
+    <li> alalalal </li>
 </ul>
