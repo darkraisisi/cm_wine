@@ -4,9 +4,8 @@ AI project to determine the score of a Portugese red wine depending on the chemi
 
 <h1>Casus</h1>
 <ul>
-    <li>Is de score voorspelbaar aan de hand van de chemise opmaak. <b>Supervised - Regression</b></li>
-    <li>Kan het zijn dat wijnen met dezelfde/soortgelijke chemische opmaak een andere score hebben door naamsbekendheid van de regio waar ze in verkocht worden. <b>Visualisatie - Clustering</b></li>
-    <li>Wijnen clusteren op chemische samenstelling en gemiddelde scores per cluster bekijken bij mannen en vrouwen.<b>External Dataset - Clustering</b></li>
-    <li>Woorden lijsten opzetten met goede/slechte-keywords en het aantal hits van de keywords in de titel en de beschrijving vergelijken met de score.<b></b></li>
-    <li>Kijken of de chemische opmaak beinvloed is door de plaats van afkomst (zoals een basische bodem waardoor het water ook minder zuur is).</li>
+    <li>In hoeverre is de score van een Portugese Red te voorspellen op basis van de chemische kenmerken?(verplichte onderzoeksvraag) <b>Supervised - Regression</b></li>
+    <li> Als we wijnen categoriseren op basis van de chemische samenstelling, zijn er bepaalde categorieën die mannelijke proevers anders beoordelen dan vrouwelijke proevers?</li><b>Unsupervised - Clustering</b>
+    <li> Kun je op basis van bepaalde keywords in de beschrijving een voorspelling doen over hoe hoog de score van deze wijn is?<b> Supervised - Regression</b></li>
+    <li> Kun je op basis van de chemische opmaak van een wijn herleiden uit welke regio de wijn komt?</li><b> Supervised - Classificatie</b>
 </ul>
